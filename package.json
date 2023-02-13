@@ -1,0 +1,11 @@
+{
+  "name": "backauth",
+  "version": "1.0.0",
+  "description": "Backend nodeJS + mySQL, user authentication",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Franco Battista",
+  "license": "ISC"
+}
