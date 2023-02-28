@@ -2,7 +2,7 @@ module.exports = {
   database: {
     host: "localhost",
     user: "root",
-    password: "Impresoradev1",
+    password: "here_password",
     database: "auth_app_db",
     /*authPlugins:{
             caching_sha2_password: require('./../node_modules/mysql2/lib/auth_plugins/caching_sha2_password') //Lo tengo que hacer, porque al momento de hacer esto estoy teniendo 
